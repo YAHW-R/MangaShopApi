@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hvhFxV9PAW1XFM7qoOI81y0yxvTAd6BkZg3du625u3c=",
+  "Source": "MangaShopApi",
+  "BasePath": "_content/MangaShopApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
